@@ -1,19 +1,80 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+*  __Área de Esporte:__ Must Have
+*  __Área de Webmedia:__ Must Have
+*  __Plataforma de Personalização__
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+### Cândido Sales Gomes _23_
+![Gravatar](http://www.gravatar.com/avatar/1c9d329ab312eb2e0fc5d76a780d7709.png) 
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+* Pós graduando pela Fundação Getúlio Vargas (FGV) em MBA em Gestão Empresarial _2012-2013_ ;
+* Formado em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI).  _2008-2011_ ;
+* Membro pesquisador do LIMS: Laboratory of Innovation on Multimedia Systems (IFPI);
+* Atualmente sou desenvolvedor web (CSS3, HTML5, JS, AJAX), desenvolvo aplicações web em PHP (Zend) e em Ruby (Rails);
+* Possuo experiência em Webdesign com Photoshop desde 2008;
+* Estudando Ember.js;
+* Já desenvolvi em Java (VRaptor) e aplicações interativas para TV Digital em NCLua;
+* [Blog](http://candidosalesg.wordpress.com) / [Twitter](http://twitter.com/candidosales).
+
+Gosto bastante de estudar sobre Usabilidade, IHC, Desenvolvimento Web (Mobile), Cloud Computing e Rails. [Alguns livros que no momento estou lendo](http://www.skoob.com.br/estante/livros/2/78727/page:1). 
+
+### Formação complementar
+1. 2012 - 2012 Imersão Rails. (Carga horária: 20h). __EGenial__;
+
+2. 2012 - 2012 Workshop Gerenciamento e Customização de Temas. (Carga horária: 16h). __School Of Net__;
+
+3. 2012 - 2012 Curso de SEO. (Carga horária: 16h). __MestreSEO__;
+
+4. 2011 - 2011 Workshop de TDD e Zend Framework. (Carga horária: 16h). __School Of Net__;
+
+5. 2011 - 2011 Workshop Dominando o Photoshop CS5. (Carga horária: 8h). __Serviço de Apoio às Micro e Pequenas Empresas Empresas do Piauí__.
+
+6. 2011 - 2011 Ruby on Rails do Básico ao Avançado. (Carga horária: 20h). __EGenial__;
+
+7. 2010 - 2010 Workshop de Zend Framework. (Carga horária: 8h). __School Of Net__;
+
+8. 2010 - 2010 Workshop de PHP5 - POO. (Carga horária: 8h). __School Of Net__;
+
+9. 2010 - 2010 Workshop de GitHub. (Carga horária: 6h). __School Of Net__;
+ 
+
+### Eventos
+
+1. Desencontro 2012;
+
+2. BrazilJS. 2012;
+
+3. MestreSEO. 2012;
+
+4. Semana de Informática 3.0.Desenvolvendo Aplicações para Google Android 4.0. 2012;
+
+5. Brazil JS. 2011;
+
+6. Design Photo Conference. 2011;
+
+7. III Semana Acadêmia de Ciência da Computação (SACIC);
+
+8. III Encontro de Iniciação Científica do Instituto Federal do Piauí;
+
+9. IV Congresso de Pesquisa e Inovação da Rede Norte e Nordeste de Educação Tecnológica (CONNEPI 2009);
+
+10. XV Simpósio Brasileiro de Sistemas Multimídia e Web. 2009;
+
+11. VII Simpósio de Informática Federal do Piauí (INFOPI 2009). 2009;
+
+12. II Semana Acadêmica de Informática (SACI). 2009;
+
+
+### Apresentação de Minicursos
+
+1. Desenvolvendo Aplicações para Google Android 4.0. Semana de Informática 3.0 2012;
+
+2. Desenvolvimento de Aplicações para Plataforma Google Android. III Semana Acadêmia de Ciência da Computação (SACIC) 2011;
+
+3. Desenvolvimento de Aplicações Interativas para TV Digital com NCLua. II Semana Acadêmica de Ciência da Computação UFPI (SACIC) 2010;
+
+

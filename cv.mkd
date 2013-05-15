@@ -18,9 +18,11 @@ CV
 * Possuo experiência em Webdesign com Photoshop desde 2008;
 * Estudando Ember.js;
 * Já desenvolvi em Java (VRaptor) e aplicações interativas para TV Digital em NCLua;
-* [Blog](http://candidosalesg.wordpress.com) / [Twitter](http://twitter.com/candidosales).
+* __Blog__: [http://candidosalesg.wordpress.com](http://candidosalesg.wordpress.com) / __Twitter__: [@candidosales](http://twitter.com/candidosales). 
+* __LinkedIn__: [br.linkedin.com/in/candidosales/](br.linkedin.com/in/candidosales/) / __About.me__: [http://about.me/candidosales](http://about.me/candidosales)
+* __Celular__: (86) 9933-5216 / __E-mail__: [candidosg@gmail.com](mailto:candidosg@gmail.com)
 
-Gosto bastante de estudar sobre Usabilidade, IHC, Desenvolvimento Web (Mobile), Cloud Computing e Rails. [Alguns livros que no momento estou lendo](http://www.skoob.com.br/estante/livros/2/78727/page:1). 
+Gosto bastante de estudar sobre Usabilidade, IHC, Desenvolvimento Web (Mobile), Cloud Computing, Rails e JS. [Alguns livros que no momento estou lendo](http://www.skoob.com.br/estante/livros/2/78727/page:1). 
 
 ### Formação complementar
 1. 2012 - 2012 Imersão Rails. (Carga horária: 20h). __EGenial__;
